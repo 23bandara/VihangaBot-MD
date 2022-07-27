@@ -21,14 +21,14 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['94763427338']
-global.premium = ['94763427338']
-global.ownernomer = '94763427338'
+global.owner = ['94726320546']
+global.premium = ['94726320546']
+global.ownernomer = '94726320546'
 global.ownername = '៚ᴠɪʜͥᴀɴͣɢͫᴀ ʏᴛ͢⁸⁵⁴¹⃟✦⃝̮̮〽️'
-global.botname = 'VIHANGA MD BOT'
-global.footer = 'VIHANGA MD'
-global.cap = '*Genarated By Vihanga Md*'
-global.ig = 'https://github.com/vihangabot'
+global.botname = 'sithija MD BOT'
+global.footer = 'sithija MD'
+global.cap = '*Genarated By sithija Md*'
+global.ig = 'https://github.com/sithijabot'
 global.region = 'Sri Lanka, Sabaragamuwa, Embilipitiya'
 global.sc = 'https://github.com/vihangabot'
 global.myweb = 'https://chat.whatsapp.com/BDge3i6chrQKWkkSRellyT'
